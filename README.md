@@ -1,1 +1,1 @@
-# comics
+# comics server
